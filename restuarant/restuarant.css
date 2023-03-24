@@ -1,0 +1,80 @@
+html{
+    background-color: rgba(61, 70, 70, 0.575);
+    background-image: url(img/background-adare-restaurant.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+}
+.big{
+   margin-left: auto;
+   margin-right: auto;
+   width: 1024px;
+}
+
+
+
+header{
+   
+    height: 118px;
+    text-align: center;
+   
+}
+nav{
+     background-color: rgba(0, 0, 0, 0.363);
+     padding-top: 14px;
+     padding-bottom: 14px;
+    text-align: center;
+   
+}
+main{
+    
+    height: 400px;
+   
+}
+footer{
+     background-color:rgba(0, 0, 0, 0.733);
+   ;
+}
+h1{
+    font-size: 60px;
+    font-family: Lucida Console;
+    text-align: center;
+   padding-top: 30px;
+   padding-bottom: 4px;
+   margin-top: 0px;
+   color: white;
+}
+p{color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+padding: top 0px;;
+
+}
+.site{
+    color: white;
+    padding-left: 400px;
+    padding-right: 400px;
+    
+
+}
+nav a{
+
+
+     color:white;
+     text-decoration: none;
+  padding-right: 14px;
+    padding-left: 14px;
+    
+}
+p{
+    text-align: center;
+    font-size: smaller;
+}
+.map{
+    margin-top: auto;
+    padding-bottom:70px;
+    padding-top: 2px;
+}
